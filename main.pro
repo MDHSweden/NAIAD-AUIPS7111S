@@ -1,4 +1,4 @@
-update=ons 23 nov 2016 10:53:47
+update=2017-01-09 23:56:02
 version=1
 last_client=kicad
 [pcbnew]
@@ -27,7 +27,7 @@ NetIExt=net
 version=1
 [eeschema]
 version=1
-LibDir=../../KiCad-Dev.pretty
+LibDir=../KiCad-MDH-library
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -58,8 +58,8 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
-LibName30=dev_switch
-LibName31=dev_mosfet
+LibName30=dev_bjt
+LibName31=dev_conn
 LibName32=dev_ic
-LibName33=dev_conn
-LibName34=dev_bjt
+LibName33=dev_mosfet
+LibName34=dev_switch
