@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name KiCad-MDH-Connectors)(type Github)(uri https://github.com/MDHSweden/KiCad-MDH-Connectors.pretty)(options "")(descr ""))
+  (lib (name KiCad-MDH-IC)(type Github)(uri https://github.com/MDHSweden/KiCad-MDH-IC.pretty)(options "")(descr ""))
+)
